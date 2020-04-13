@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sys.h": "c",
+			"freertos.h": "c",
+			"portable.h": "c",
+			"portmacro.h": "c",
+			"stm32f4xx.h": "c",
+			"stm32f429xx.h": "c",
+			"core_cm4.h": "c",
+			"core_cminstr.h": "c",
+			"cmsis_armcc.h": "c"
+		}
+	}
+}
